@@ -1,3 +1,5 @@
-./*.pt
-./datasets
-./weights
+*.pt
+datasets/
+weights/
+
+__pycache__/
